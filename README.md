@@ -9,7 +9,7 @@ Se cambia provisionalmente el nombre del topic "/cmd_vel" del nodo "arbotix" a "
 
 ***Paquete rbx1:***
 
-1. *El paquete "rbx1" se debe descargar dentro de un workspace; por ejemplo: "/home/workspace/src/paquete_pkg"*
+1. *El paquete "rbx1" se debe descargar dentro de un workspace; por ejemplo: "/home/workspace/src"*
 
 ```
 $ cd workspace/src
