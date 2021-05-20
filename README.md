@@ -102,13 +102,13 @@ $ rosrun rviz rviz -d`rospack find rbx1_nav`/sim.rviz
 4. *Luego se abre otra ventana de terminal y se ejecuta la siguiente línea para ajustar la velocidad del desplazamiento del robot:*
 
 ```
-rosparam set teleop_turtle/scale_linear 0.5
+$ rosparam set teleop_turtle/scale_linear 0.5
 ```
 
 5. *Se ejecuta el comando teleoperado de turtlesim:*
 
 ```
-rosrun turtlesim turtle_teleop_key
+$ rosrun turtlesim turtle_teleop_key
 ```
 
 6. *Al ejecutar los pasos anteriores podemos ver las conexiones de los nodos ejecutando la siguiente instrucción en otra ventana del terminal:*
@@ -119,3 +119,12 @@ $ rosrun rqt_graph rqt_graph
 
 ![alt text](https://github.com/eliandv1911/Remap---ROS/blob/1c9e991f6d965358cd908ee99112b79df50fd2d8/images/nodos_topics.png)
 
+*-------------------------------------------------------------------------------------------------------------------------------------------------------*
+
+**Autores**
+
+*Daniel Alberto Cruz Porras*
+
+*Elian Andrés Díaz Vargas*
+
+*Camilo Andrés Sosa Gutierrez*
