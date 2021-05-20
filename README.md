@@ -117,4 +117,5 @@ rosrun turtlesim turtle_teleop_key
 $ rosrun rqt_graph rqt_graph
 ```
 
+![alt text](https://github.com/eliandv1911/Remap---ROS/blob/1c9e991f6d965358cd908ee99112b79df50fd2d8/images/nodos_topics.png)
 
